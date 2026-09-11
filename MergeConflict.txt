@@ -1,5 +1,4 @@
 <<<<<<< HEAD
 Welcome to git
 =======
-Welcome to Conflict branch
 >>>>>>> conflict
